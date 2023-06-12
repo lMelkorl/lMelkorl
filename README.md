@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=lMelkorl&show_icons=true&bg_color=282C35&icon_color=1CFF8E&text_color=9E9E9E&hide_border=true)
 
 # 💫 About Me:
-Hello, I am a Junior Full Stack Developer, I have been involved in software development for about 5 years and have gained experience in various areas. My first year was spent learning algorithms and basic web development. Over the next 2 years, I worked on Unity game development, robotics programming, and basic artificial intelligence. In the following 2 years, I focused on cybersecurity and built upon my foundational knowledge of web development. Throughout this period, I made an effort to improve my English skills as much as possible. Currently, I am actively developing myself in line with the goal of becoming a Full Stack Developer.
+Hello, I am a Full Stack Developer, I have been involved in software development for about 5 years and have gained experience in various areas. My first year was spent learning algorithms and basic web development. Over the next 2 years, I worked on Unity game development, robotics programming, and basic artificial intelligence. In the following 2 years, I focused on cybersecurity and built upon my foundational knowledge of web development. Throughout this period, I made an effort to improve my English skills as much as possible. Currently, I am actively developing myself in line with the goal of becoming a Full Stack Developer.
 
 
 # 💻 Tech Stack:
