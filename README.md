@@ -34,7 +34,7 @@ https://historyscience.netlify.app/<br />
 https://melkorhistory.netlify.app/<br />
 https://spacegamee.netlify.app/ <br />
 https://ballgamee.netlify.app/ <br />
-## My other projects you should check out:
+### My other projects you should check out:
 https://github.com/lMelkorl/admelkorsite <br/>
 https://github.com/lMelkorl/blogApp
 
