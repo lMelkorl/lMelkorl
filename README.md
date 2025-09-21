@@ -32,6 +32,7 @@ Hello, I am a Full Stack Developer, I have been involved in software development
 ---
 # Portfolio 📱
 https://housing4u.ca <br />
+https://englishcenter.ca <br />
 https://villakonut.com <br />
 https://oiltrans.com.tr <br />
 https://syolenerji.com<br />
@@ -45,8 +46,8 @@ https://melkorhistory.netlify.app/<br />
 https://spacegamee.netlify.app/ <br />
 https://ballgamee.netlify.app/ <br />
 ### My other projects you should check out:
-https://github.com/lMelkorl/admelkorsite <br/>
-https://github.com/lMelkorl/blogApp
+https://github.com/lMelkorl/sam2-rim-segmentation <br/>
+https://github.com/lMelkorl/urbansound_segment_task
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lmelkorl&icon=5&color=0)](https://visitcount.itsvg.in)
