@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmelkorl&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 -->
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=lmelkorl&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=lmelkorl&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-# 💫 About Me:
+# About Me:
 *The project is the purpose; technology is the tool.*
-Software developer and AI engineer with 4+ years building production systems — full-stack web and mobile, computer vision, LLM automation, and applied deep learning for commercial and research use cases.
+Software developer and AI Developer with 4+ years building production systems — full-stack web and mobile, computer vision, LLM automation, and applied deep learning for commercial and research use cases.
 
 
 # 💻 Tech Stack:
